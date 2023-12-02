@@ -7,7 +7,15 @@
 ## 6 - Challenge 1 -- Plane Programming ([Live](https://play.unity.com/mg/other/webgl-builds-380860))
 <img width="582" alt="6 - Plane Programming " src="https://github.com/furk2sahin/unity-self-learning/assets/61588266/d712ef81-9f81-40e9-ab92-b0e801d1c892">
 
-## 7 - Challenge 2
+## 7 - Challenge 2 -- Hungry Animals ([Live](https://play.unity.com/mg/other/webgl-builds-381081))
+
+<img width="766" alt="Ekran görüntüsü 2023-12-02 161424" src="https://github.com/furk2sahin/unity-self-learning/assets/61588266/79d429b0-49dc-4f3c-8661-2cba625ea981">
+
+## 8 - Challenge 3 -- Play Fetch ([Live](https://play.unity.com/mg/other/webgl-builds-381085))
+
+<img width="771" alt="Ekran görüntüsü 2023-12-02 172714" src="https://github.com/furk2sahin/unity-self-learning/assets/61588266/7e980654-098f-4eed-9342-3b7b15325588">
+
+## 9 - Bonus Challenge
 
 - Easy: Pyramid Obstacles
 
