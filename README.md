@@ -33,3 +33,12 @@
 - Expert: Local Multiplayer ([Live](https://play.unity.com/mg/other/webgl-builds-380703))
 
 <img width="761" alt="Ekran görüntüsü 2023-12-01 195817" src="https://github.com/furk2sahin/unity-self-learning/assets/61588266/d723cda5-913b-4e0d-bf8d-79f65ccaf94a">
+
+## 10 - Bonus Features ([Live](https://play.unity.com/mg/other/webgl-builds-381646))
+
+- Easy: Vertical player movement
+- Medium: Aggressive animals
+- Hard: Game user interface
+- Expert: Animal hunger bar
+
+<img width="766" alt="Ekran görüntüsü 2023-12-06 232012" src="https://github.com/furk2sahin/unity-self-learning/assets/61588266/0165dba8-df7b-4782-a166-1ca2326960d5">
