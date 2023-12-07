@@ -42,3 +42,7 @@
 - Expert: Animal hunger bar
 
 <img width="766" alt="Ekran görüntüsü 2023-12-06 232012" src="https://github.com/furk2sahin/unity-self-learning/assets/61588266/0165dba8-df7b-4782-a166-1ca2326960d5">
+
+## 11 - Animation, Sound & Effects ([Live](https://play.unity.com/mg/other/webgl-builds-381829))
+
+<img width="769" alt="Ekran görüntüsü 2023-12-07 231326" src="https://github.com/furk2sahin/unity-self-learning/assets/61588266/0c207e72-b438-4cd6-9516-f6d257b290aa">
