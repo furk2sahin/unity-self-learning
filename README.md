@@ -46,3 +46,12 @@
 ## 11 - Animation, Sound & Effects ([Live](https://play.unity.com/mg/other/webgl-builds-381829))
 
 <img width="769" alt="Ekran görüntüsü 2023-12-07 231326" src="https://github.com/furk2sahin/unity-self-learning/assets/61588266/0c207e72-b438-4cd6-9516-f6d257b290aa">
+
+## 12 - Bonus Features 3 ([Live](https://play.unity.com/mg/other/webgl-builds-381958))
+
+- Easy: Randomize Obstacles
+- Medium: Double Jump
+- Hard: Dash Ability
+- Expert: Game Start Animation
+
+<img width="675" alt="Ekran görüntüsü 2023-12-09 002738" src="https://github.com/furk2sahin/unity-self-learning/assets/61588266/8f162697-3b76-4993-8696-d1cdf3c7acb8">
