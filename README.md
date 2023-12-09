@@ -55,3 +55,8 @@
 - Expert: Game Start Animation
 
 <img width="675" alt="Ekran görüntüsü 2023-12-09 002738" src="https://github.com/furk2sahin/unity-self-learning/assets/61588266/8f162697-3b76-4993-8696-d1cdf3c7acb8">
+
+## 13 - Gameplay Mechanics ([Live](https://play.unity.com/mg/other/webgl-builds-382015))
+
+<img width="666" alt="Ekran görüntüsü 2023-12-09 193619" src="https://github.com/furk2sahin/unity-self-learning/assets/61588266/cc2c53a4-9556-4981-afc6-595fd13cdb86">
+
